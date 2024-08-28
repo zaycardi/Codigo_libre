@@ -1,2 +1,2 @@
 # Codigo_libre
-Repositorio con software academico
+Repositorio con software académico
